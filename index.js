@@ -31,5 +31,3 @@ fs.readdir("./commands/", (err, files) => {
 
 
 client.login(process.env.TOKEN)
-// what, we install wsl 
-// should i install wsl?
